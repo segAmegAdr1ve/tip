@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">playground</string>
+    <string name="servicePrice">Цена услуги</string>
+    <string name="ok_service_10">Сойдет (10%)</string>
+    <string name="god_service_15">Нормалды (15%)</string>
+    <string name="amazing_service_20">Ахуенно (20%)</string>
+    <string name="round_up_switch">Округлить?</string>
+    <string name="calculate_button">Рассчитать</string>
+    <string name="tip_amount">Сумма чаевых</string>
+    <string name="service_question">Заебок было?</string>
+    <string name="tip">Чаевуха?</string>
+</resources>
