@@ -7,6 +7,10 @@ android {
     namespace = "com.example.playground"
     compileSdk = 33
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.playground"
         minSdk = 24

@@ -6,7 +6,7 @@
     <string name="amazing_service_20">Ахуенно (20%)</string>
     <string name="round_up_switch">Округлить?</string>
     <string name="calculate_button">Рассчитать</string>
-    <string name="tip_amount">Сумма чаевых</string>
+    <string name="tip_amount">Сумма чаевых: %s</string>
     <string name="service_question">Заебок было?</string>
     <string name="tip">Чаевуха?</string>
 </resources>
